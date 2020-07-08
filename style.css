@@ -1,0 +1,43 @@
+.first-logo {
+    width: 100px;
+}
+.first-photo img{
+width: 100%;
+}
+.new-button{
+    background-color: rgb(16, 202, 140);
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.first-section{
+    padding: 40px 20px;
+    background-color:rgb(215, 241, 232); 
+}
+.col img{
+    width: 250px;
+    margin-right: auto;
+   
+   
+}
+.categoris{
+   margin-top: 40px;
+}
+.box-shadows{
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}   
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightcyan;
+}      
+.last-part{
+    background-color: black;
+}   
+footer small{
+    text-align: center !important;
+    color: white;
+}
